@@ -55,6 +55,7 @@ set password=定义一个固定解锁的密码
 <video id="video" controls="" preload="none" style="margin: 0 auto; width: 600px;height:400px;">
 	<source id="mp4" src="https://vd4.bdstatic.com/mda-me1fy7f1hhak6g0w/sc/mda-me1fy7f1hhak6g0w.mp4?v_from_s=hba_haokan_4469&auth_key=1619927658-0-0-714e64cb4c28b6e0797a091f937bb859&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=" type="video/mp4">
 </video>
+
 #### 注意事项
 
 * 在操作脚本前, 必须要保证需要隐藏的文件夹及其内部的所有文件都已释放资源, 不然会操作失败而且没有提示

@@ -60,7 +60,7 @@ set myDirPath=%USERPROFILE%\Desktop
 
 3. 需要显示文件的时候, 再点一次脚本, 输入正确的密码, 文件夹和其他隐藏的文件就回来啦
 
-   [视频演示](https://vd3.bdstatic.com/mda-me1g20nsbtes4kyq/sc/cae_h264/1619925913614473343/mda-me1g20nsbtes4kyq.mp4?v_from_s=gz_rmb_haokan_creator_6833&auth_key=1619931580-0-0-0f37f0e16e18f499b11cb4f803dd4c15&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=)
+   [视频演示](https://vd3.bdstatic.com/mda-me1g20nsbtes4kyq/sc/cae_h264/1619925913614473343/mda-me1g20nsbtes4kyq.mp4?v_from_s=gz_rmb_haokan_creator_6833&auth_key=1619931580-0-0-0f37f0e16e18f499b11cb4f803dd4c15&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=)(网址打不开需要点一下地址, 重新发送请求就可以访问了)
 
 <video id="video" controls="" preload="none" style="margin: 0 auto; width: 600px;height:400px;">
 	<source id="mp4" src="https://vd3.bdstatic.com/mda-me1g20nsbtes4kyq/sc/cae_h264/1619925913614473343/mda-me1g20nsbtes4kyq.mp4?v_from_s=gz_rmb_haokan_creator_6833&auth_key=1619931580-0-0-0f37f0e16e18f499b11cb4f803dd4c15&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=" type="video/mp4">

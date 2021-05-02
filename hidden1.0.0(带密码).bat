@@ -3,8 +3,8 @@ REM
 chcp 65001
 CLS
 
-set name=起一个固定的文件夹名称
-set password=定义一个固定解锁的密码
+set name=abc
+set password=123
 
 title Folder %name%
 if EXIST "Locker" goto UNLOCK

@@ -9,7 +9,7 @@
 
 #### 新增部分
 
-1. 1.0.0版本只能在同一目录下操作隐藏文件夹不太合理, 所以把隐藏的文件夹设置成了固定的绝对路径
+1. [1.0.0版本](https://github.com/HanweiWu/simple_password_hidden_files_script/tree/hidden1.0.0)只能在同一目录下操作隐藏文件夹不太合理, 所以把隐藏的文件夹设置成了固定的绝对路径
 2. 考虑到存储的资源会在多个目录下, 所以加入了通过快捷方式来隐藏文件, 也就是在隐藏的主文件夹的内部放入一个其他文件的快捷方式 (这个快捷方式需要进行处理, 就是必须是和目标文件同名, 一个空格的区别都不行!不同名的我还解决不了, 希望有大佬帮忙解决) , 运行脚本隐藏时, 也会把主文件夹内部的快捷方式对应的文件也进行隐藏, 这样就可以一起隐藏不同目录下的多个文件啦
 
 #### 原理
@@ -40,7 +40,7 @@ set myDirPath=%USERPROFILE%\Desktop
 
 因为bat文件直接是可以编辑源码的, 这样设置密码谁都能看没有意义, 可以使用Bat_To_Exe_Converter.exe这个工具编译成exe, 非常方便, 图标我都给友友们准备了一个自己手写的H, 不好看也讲究昂
 
-1. 在[1.0.0版本的源码](https://github.com/HanweiWu/simple_password_hidden_files_script/tree/hidden1.0.0)里带有的Bat_To_Exe_Converter.exe, 我也上传了[蓝奏网盘](https://wws.lanzous.com/i9OlIoq0qsj)密码:123
+1. 在[1.0.0版本](https://github.com/HanweiWu/simple_password_hidden_files_script/tree/hidden1.0.0)的源码里带有的Bat_To_Exe_Converter.exe, 我也上传了[蓝奏网盘](https://wws.lanzous.com/i9OlIoq0qsj)密码:123
 
 2. File -> Open 或者直接拖动bat脚本进来
 

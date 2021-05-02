@@ -5,6 +5,7 @@
 
 我是个小白, 对bat批处理脚本并不懂, 这些都是网上找的代码东拼西凑写出来的, 写得很乱见谅, 勉强能运行哈 
 
+### 最新版本[hidden2.0.0]([hidden1.0.0](https://github.com/HanweiWu/simple_password_hidden_files_script/releases/tag/hidden2.0.0))
 ### [hidden1.0.0](https://github.com/HanweiWu/simple_password_hidden_files_script/releases/tag/hidden1.0.0)
 
 #### 原理
@@ -50,7 +51,7 @@ set password=定义一个固定解锁的密码
 
 3. 需要显示文件的时候, 再点一次脚本, 输入正确密码文件夹就回来啦
 
-   [视频演示](https://vd4.bdstatic.com/mda-me1fy7f1hhak6g0w/sc/mda-me1fy7f1hhak6g0w.mp4?v_from_s=hba_haokan_4469&auth_key=1619927658-0-0-714e64cb4c28b6e0797a091f937bb859&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=)
+   [视频演示](https://vd4.bdstatic.com/mda-me1fy7f1hhak6g0w/sc/mda-me1fy7f1hhak6g0w.mp4?v_from_s=hba_haokan_4469&auth_key=1619927658-0-0-714e64cb4c28b6e0797a091f937bb859&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=) (网址打不开需要点一下地址, 重新发送请求就可以访问了)
 
 <video id="video" controls="" preload="none" style="margin: 0 auto; width: 600px;height:400px;">
 	<source id="mp4" src="https://vd4.bdstatic.com/mda-me1fy7f1hhak6g0w/sc/mda-me1fy7f1hhak6g0w.mp4?v_from_s=hba_haokan_4469&auth_key=1619927658-0-0-714e64cb4c28b6e0797a091f937bb859&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=" type="video/mp4">

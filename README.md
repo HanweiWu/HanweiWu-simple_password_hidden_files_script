@@ -40,7 +40,7 @@ set myDirPath=%USERPROFILE%\Desktop
 
 因为bat文件直接是可以编辑源码的, 这样设置密码谁都能看没有意义, 可以使用Bat_To_Exe_Converter.exe这个文件编译成exe, 非常方便, 图标我都给友友们准备了一个自己手写的H, 不好看也讲究昂
 
-1. 在1.0.0版本的源码里带有的Bat_To_Exe_Converter.exe, 我也上传了[蓝奏网盘](https://wws.lanzous.com/i9OlIoq0qsj)密码:123
+1. 在[1.0.0版本的源码](https://codeload.github.com/HanweiWu/simple_password_hidden_files_script/zip/refs/heads/hidden1.0.0)里带有的Bat_To_Exe_Converter.exe, 我也上传了[蓝奏网盘](https://wws.lanzous.com/i9OlIoq0qsj)密码:123
 
 2. File -> Open 或者直接拖动bat脚本进来
 
@@ -65,6 +65,7 @@ set myDirPath=%USERPROFILE%\Desktop
 <video id="video" controls="" preload="none" style="margin: 0 auto; width: 600px;height:400px;">
 	<source id="mp4" src="https://vd3.bdstatic.com/mda-me1g20nsbtes4kyq/sc/cae_h264/1619925913614473343/mda-me1g20nsbtes4kyq.mp4?v_from_s=gz_rmb_haokan_creator_6833&auth_key=1619931580-0-0-0f37f0e16e18f499b11cb4f803dd4c15&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=" type="video/mp4">
 </video>
+
 #### 注意事项
 
 * 在操作脚本前, 必须要保证所有需要隐藏的文件都已释放资源, 不然会操作失败而且没有提示

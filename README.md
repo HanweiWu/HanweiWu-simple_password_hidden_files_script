@@ -5,7 +5,7 @@
 
 我是个小白, 对bat批处理脚本并不懂, 这些都是网上找的代码东拼西凑写出来的, 写得很乱见谅, 勉强能运行哈 
 
-#### 最新版本[hidden2.0.0](https://github.com/HanweiWu/simple_password_hidden_files_script)
+#### 最新版本[hidden2.1.1](https://github.com/HanweiWu/simple_password_hidden_files_script)
 ### [hidden1.0.0](https://github.com/HanweiWu/simple_password_hidden_files_script/releases/tag/hidden1.0.0)
 
 #### 原理

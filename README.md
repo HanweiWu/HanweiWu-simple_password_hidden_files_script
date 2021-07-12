@@ -40,7 +40,7 @@ set myDirPath=%USERPROFILE%\Desktop
 
 因为bat文件直接是可以编辑源码的, 这样设置密码谁都能看没有意义, 可以使用Bat_To_Exe_Converter.exe这个工具编译成exe, 非常方便, 图标我都给友友们准备了一个自己手写的H, 不好看也讲究昂
 
-1. 在[1.0.0版本](https://github.com/HanweiWu/simple_password_hidden_files_script/tree/hidden1.0.0)的源码里带有的[Bat_To_Exe_Converter.exe](https://raw.githubusercontent.com/HanweiWu/simple_password_hidden_files_script/hidden1.0.0/Bat_To_Exe_Converter.exe), 或者蓝奏网盘下载[完整安装版](https://www.lanzous.com/iGw3zoq35dg)密码:123
+1. 在[1.0.0版本](https://github.com/HanweiWu/simple_password_hidden_files_script/tree/hidden1.0.0)的源码里带有的[Bat_To_Exe_Converter.exe](https://raw.githubusercontent.com/HanweiWu/simple_password_hidden_files_script/hidden1.0.0/Bat_To_Exe_Converter.exe), 或者蓝奏网盘下载[完整安装版](https://www.lanzou.com/iGw3zoq35dg)密码:123
 
 2. File -> Open 或者直接拖动bat脚本进来
 
